@@ -1,0 +1,9 @@
+name: EconomyShop
+version: "1.0"
+api: ["1.0.13"]
+author: MEFRREEX
+main: clubdev.economyshop.Main
+
+depend:
+  - Economy
+  - FormConstructor
